@@ -5,4 +5,9 @@ body{
 h1{
     background-color: black;
     color: white;
+    width: 50%;
+}
+h2{
+    background-color: red;
+    width: 100%;
 }
